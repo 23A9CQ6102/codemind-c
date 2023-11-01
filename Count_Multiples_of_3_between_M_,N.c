@@ -5,7 +5,7 @@ int main()
     scanf("%d%d",&m,&n);
     for (i=m;i<=n;i++)
     {
-        if(i%3==0)
+        if (i%3==0)
         {
             c++;
         }
