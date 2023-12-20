@@ -1,3 +1,4 @@
+ //Elements smaller than average
 #include<stdio.h>
 int main()
 {
